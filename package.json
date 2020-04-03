@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "start": "mvn spring-boot:run -Dspring-boot.run.profiles=local",
+    "start": "mvn spring-boot:run",
     "build": "mvn clean install -DskipTests",
     "test": "mvn test"
   }

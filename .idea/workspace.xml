@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfd44cea-0db2-4c46-87fe-f5f61958b11a" name="Default Changelist" comment="" />
+    <list default="true" id="bfd44cea-0db2-4c46-87fe-f5f61958b11a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -37,6 +45,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -165,6 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585872083087</updated>
       <workItem from="1585872086102" duration="25006000" />
+      <workItem from="1585937658819" duration="2709000" />
     </task>
     <servers />
   </component>
@@ -244,10 +254,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585882943161" />
-    <state x="656" y="253" width="607" height="534" key="find.popup" timestamp="1585884515346">
+    <state x="656" y="253" width="607" height="534" key="find.popup" timestamp="1585937683922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="253" width="607" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585884515346" />
+    <state x="656" y="253" width="607" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585937683922" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585932785758">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
